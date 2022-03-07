@@ -1,6 +1,6 @@
 # Hello 🖖, I'm Wellington Nadson
 
-# ☕ Wellington Nadson - About
+## ☕ Wellington Nadson - About
 
 
 # 🎯 knowledge:
