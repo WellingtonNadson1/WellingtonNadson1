@@ -1,15 +1,15 @@
 # Hello 🖖, I'm Wellington Nadson
 
-☕ # Wellington Nadson - About
+# ☕ Wellington Nadson - About
 
 
-🎯 # knowledge:
+# 🎯 knowledge:
 
-Front-End: React.Js, Next.Js, JavaScript, TypeScript, Html5 e Css3
-Back-End: Node.JS, JavaScript, TypeScript e MongoDB
-Ferramentas: Git, GitHub, Npm, Yarn, Figma e Insomnia
+*Front-End: React.Js, Next.Js, JavaScript, TypeScript, Html5 e Css3
+*Back-End: Node.JS, JavaScript, TypeScript e MongoDB
+*Ferramentas: Git, GitHub, Npm, Yarn, Figma e Insomnia
   
-🎖️ # Status:
+# 🎖️ Status:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonnadson1&theme=dark&show_icons=true)
