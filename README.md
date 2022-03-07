@@ -1,13 +1,13 @@
 # Hello 🖖, I'm Wellington Nadson
 
-## ☕ Wellington Nadson - About
+## ☕ About-me
 
 
 ## 🎯 knowledge:
 
-*Front-End: React.Js, Next.Js, JavaScript, TypeScript, Html5 e Css3
-*Back-End: Node.JS, JavaScript, TypeScript e MongoDB
-*Ferramentas: Git, GitHub, Npm, Yarn, Figma e Insomnia
+-*Front-End: React.Js, Next.Js, JavaScript, TypeScript, Html5 e Css3
+-*Back-End: Node.JS, JavaScript, TypeScript e MongoDB
+-*Ferramentas: Git, GitHub, Npm, Yarn, Figma e Insomnia
   
 ## 🎖️ Status:
 
