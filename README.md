@@ -9,9 +9,9 @@
 ## 🎯 knowledge:
 
 
-> *   **Front-End:** React.Js, Next.Js, JavaScript, TypeScript, Html5 e Css3
-> +   **Back-End:** Node.JS, JavaScript, TypeScript e MongoDB
-> -   **Ferramentas:** Git, GitHub, Npm, Yarn, Figma e Insomnia
+> *   **Front-End:** JavaScript, TypeScript, Html5 e Css3
+> +   **Back-End:** JavaScript, TypeScript e Django
+> -   **Ferramentas:** Git, GitHub, Figma
 <br>
   
 ## 🎖️ Status:
