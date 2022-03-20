@@ -1,9 +1,8 @@
-# Hello 🖖, I'm Wellington Nadson
-https://github.com/WellingtonNadson1/header.png
-<br>
+# Hello 🖖, I'm  **Wellington Nadson**
+
 
 ## ☕ About-me
-### ```I find it a little difficult to talk about myselk. But one thing is for sure, I like technology and learning something every day that can make me evolve.```
+> ### `I find it a little difficult to talk about myselk. But one thing is for sure, I like technology and learning something every day that can make me evolve.`
 
 <br>
 <br>
@@ -11,9 +10,12 @@ https://github.com/WellingtonNadson1/header.png
 ## 🎯 knowledge:
 
 
-> *   **Front-End:** JavaScript, TypeScript, Html5 e Css3
-> +   **Back-End:** JavaScript, TypeScript e Django
-> -   **Ferramentas:** Git, GitHub, Figma
+> *   **Front-End:** 
+>       - JavaScript, TypeScript, Html5 e Css3
+> *   **Back-End:** 
+>       - JavaScript, TypeScript e Python (_Django_)
+> *   **Ferramentas:** 
+>       - Git, GitHub, Figma
 
 <br>
   
