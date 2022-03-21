@@ -10,11 +10,21 @@
 
 
 > *   **Front-End:** 
->       - JavaScript, TypeScript, Html5 e Css3
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> JavaScript,
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> TypeScript, 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> Html5  and 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> Css3 
+>       
 > *   **Back-End:** 
->       - JavaScript, TypeScript e Python (_Django_)
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> JavaScript, 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> TypeScript  
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> Python and 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40" /> Django
+>       
 > *   **Ferramentas:** 
->       - Git, GitHub, Figma
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> Git, 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> GitHub, 
+>       - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> Figma
 
 <br>
   
