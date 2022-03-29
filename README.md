@@ -4,7 +4,7 @@
 ## ☕ About-me
 ```javascript
 const AboutMe = () => {
-  console.log(`I find it a little difficult to talk about myselk. But one thing is for sure, 
+  console.log(`I find it a little difficult to talk about myself. But one thing is for sure, 
 I like technology and learning something every day that can make me evolve.`)
 };
 ```
