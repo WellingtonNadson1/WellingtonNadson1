@@ -27,7 +27,7 @@ const AboutMe = (() => {
 ## 🎖️ Status:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonnadson1&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonnadson1&layout=compact)](https://github.com/WellingtonNadson1/wellingtonnadson)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonnadson1&theme=radical&show_icons=true&hide=prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonnadson1&layout=compact)](https://github.com/WellingtonNadson1/wellingtonnadson)
 
 <br>
 
